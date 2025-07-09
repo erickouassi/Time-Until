@@ -1,0 +1,15 @@
+/* CSS files add styling rules to your content */
+
+p{
+    text-align: center;
+    font-size: 125px;
+}
+P#root{
+    color: blue;
+    font-size: 150px;
+}
+
+body{
+    background-color: yellow;
+    color: black;
+}
